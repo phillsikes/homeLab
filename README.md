@@ -2,19 +2,6 @@
 The place for my homeLab overview and documentation as it gets built out.
 
 ## The Systems
-### Dell Optiplex 7040 SFF (AKA: the Mule)
-
-Primary Use: 
-Currently running as a test mule for trying out new services before implimenting them on the Kubernetets Cluster and preparing for RHCSA certification.
-
-Hardware
-- Intel Core i7 6700 Processor
-- 32GB RAM
-- 1TB SSD
-
-Software
-- RHEL 10 Server w/ GUI
-
 ### clusterPi
 
 Primary Use: 
@@ -32,3 +19,16 @@ Software
 - Graphana
 - Wordpress
 - Pi-Hole
+
+### Dell Optiplex 7040 SFF (AKA: the Mule)
+
+Primary Use: 
+Currently running as a test mule for trying out new services before implimenting them on the Kubernetets Cluster and preparing for RHCSA certification.
+
+Hardware
+- Intel Core i7 6700 Processor
+- 32GB RAM
+- 1TB SSD
+
+Software
+- RHEL 10 Server w/ GUI
