@@ -2,6 +2,7 @@
 The place for my homeLab overview and documentation as it gets built out.
 
 ## The Systems
+
 ### clusterPi
 
 Primary Use: 
@@ -9,7 +10,7 @@ Setup to run K3s Lightweight Kubernetes to provide local services and stay up to
 
 Hardware
 - 3x Raspberry Pi 5 8GB
-- 1.5TB Storage
+- 1.5TB SSD Storage
 
 Software
 - Ubuntu Server 24.04 LTS
