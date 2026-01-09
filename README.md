@@ -33,3 +33,10 @@ Hardware
 
 Software
 - RHEL 10 Server w/ GUI
+
+## The Network
+
+Hardware
+- Unifi Cloud Gateway Ultra
+- Unifi Switch 8 60W (8-Port Managed Gigabit Switch with PoE)
+- Unifi AC LR Access Point
