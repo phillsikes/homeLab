@@ -1,5 +1,11 @@
 # homeLab
-WIP - The place for my homeLab overview and documentation as it gets built out.
+
+Hi there, I'm Phill. 
+
+WIP - This is the place for my homeLab overview and documentation as it gets built out.
+
+## Goals
+They will go here at some point
 
 ## The Systems
 
@@ -40,3 +46,13 @@ Hardware
 - Unifi Cloud Gateway Ultra
 - Unifi Switch 8 60W (8-Port Managed Gigabit Switch with PoE)
 - Unifi AC LR Access Point
+
+## Depreciated Gear
+Monstro Workstation
+- Apple Mac Pro Dual Xeon
+
+Networking Gear
+- Optiplex Firewall - OPNsense
+- Netgate SG-2440 Firewall - pfSense
+- Meraki-8P PoE Switch
+- Meraki AP
