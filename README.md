@@ -9,6 +9,13 @@ It's a work in progress, so check back later for more interesting projects and d
 - Provide services for my family and friends.
 - Study for certifications, currently GCP Cloud Engineer and RHCSA.
 
+## Overview
+My homeLab is in a constant state of motion. It's been through multiple iteration of network configurations and hardware, starting with a pfSense router and Meraki hardware (until the licence ran out), then to an OPNsense box and Unifi gear. At the moment my Home network runs off a set of Mesh APs segregated from the Lab network, which includes a dedicated switch and AP.
+
+On the Lab network is a cluster of Raspberry Pi 5s set up with Kubernetes and monitoring for hosting services and learning. In addition there are Dell SFF boxes to test out and build interesting projects as I develop my homeLab.
+
+I'll update this as time allows and plan to include some howTo articles in the future. 
+
 ## The Systems
 
 ### clusterPi
