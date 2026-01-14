@@ -1,11 +1,13 @@
 # homeLab
 
-Hi there, I'm Phill. 
+Hi there, I'm Phill and this is my homeLab. 
 
-WIP - This is the place for my homeLab overview and documentation as it gets built out.
+It's a work in progress, so check back later for more interesting projects and documentation.
 
 ## Goals
-They will go here at some point
+- Have a place to learn about and test technologies I'm interested in.
+- Provide services for my family and friends.
+- Study for certifications, currently GCP Cloud Engineer and RHCSA.
 
 ## The Systems
 
