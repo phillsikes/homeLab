@@ -10,7 +10,7 @@ It's a work in progress, so check back later for more interesting projects and d
 - Study for certifications, currently GCP Cloud Engineer and RHCSA.
 
 ## Overview
-My homeLab is in a constant state of motion. It's been through multiple iteration of network configurations and hardware, starting with a pfSense router and Meraki hardware (until the licence ran out), then to an OPNsense box and Unifi gear. At the moment my Home network runs off a set of Mesh APs segregated from the Lab network, which includes a dedicated router, switch and AP.
+My homeLab is in a constant state of motion. It's been through multiple iteration of network configurations and hardware, starting with a pfSense router and Meraki hardware (until the license ran out), then to an OPNsense box and Unifi gear. At the moment my Home network runs off a set of Mesh APs segregated from the Lab network, which includes a dedicated router, switch and AP.
 
 On the Lab network is a cluster of Raspberry Pi 5s set up with Kubernetes and monitoring for hosting services and learning. In addition there are Dell SFF boxes to test out and build interesting projects as I develop my homeLab.
 
@@ -21,7 +21,7 @@ I'll update this as time allows and plan to include some howTo articles in the f
 ### clusterPi
 
 Primary Use: 
-Setup to run K3s Lightweight Kubernetes to provide local services and stay up to date on current technologies and processes. 1 Master node and 2 Worker nodes set up to run services like WordPress and Pi-Hole, using Persistent Volumes, Horizontal Pod Autoscaling and monitoring. The Raspberry Pi hardware recieves the most support on Debian based platforms, so I chose to run Ubuntu Server as the primary OS for the cluster.
+Setup to run K3s Lightweight Kubernetes to provide local services and stay up to date on current technologies and processes. 1 Master node and 2 Worker nodes set up to run services like WordPress and Pi-Hole, using Persistent Volumes, Horizontal Pod Autoscaling and monitoring. The Raspberry Pi hardware receives the most support on Debian based platforms, so I chose to run Ubuntu Server as the primary OS for the cluster.
 
 Hardware
 - 3x Raspberry Pi 5 8GB
@@ -39,7 +39,7 @@ Software
 ### Dell Optiplex 7040 SFF (AKA: the Mule)
 
 Primary Use: 
-Currently running as a test mule for trying out new services before implimenting them on the Kubernetets Cluster and preparing for RHCSA certification.
+Currently running as a test mule for trying out new services before implementing them on the Kubernetets Cluster and preparing for RHCSA certification.
 
 Hardware
 - Intel Core i7 6700 Processor
